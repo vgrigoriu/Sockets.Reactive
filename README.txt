@@ -1,0 +1,1 @@
+Treat a socket as an IObservable<T> and an IObserver<T>.
